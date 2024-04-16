@@ -1,7 +1,7 @@
 /*  #5f29a3 #A65B1C
     #2b283a #434C21 
     #451c7a #BB8550 
-    #d0aaff #F7F6F5 
+    #d0aaff #f0e0ff #F7F6F5 
     #ef5839 #2b238a #735F48*/
 
 body {
@@ -76,7 +76,7 @@ a:active {
 
 .btn-mid {
     color: #A65B1C; 
-    background: #f0e0ff; 
+    background: #F7F6F5 ; 
 }
 
 .btn-light {
